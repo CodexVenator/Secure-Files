@@ -18,3 +18,10 @@ Min 1 Number
 ```
 ## Warning
 If you decrypt with the wrong password, your data will be lost.
+## Author
+
+- **CodexVenator** - _Initial work_ - [CodexVenator](https://github.com/CodexVenator)
+
+## License
+
+This project is licensed under the MIT License.
