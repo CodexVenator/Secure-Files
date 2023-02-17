@@ -1,8 +1,8 @@
-# Secure-FiLES
+# Secure-Files
 A Python class for encrypting and decrypting files using the AES encryption algorithm.
 ### Installing
 ```
-$ git clone https://github.com/CodexVenator/Secure-FiLES/.git # Clone the repo
+$ git clone https://github.com/CodexVenator/Secure-Files/.git # Clone the repo
 ```
 ## Usage
 Select your file from pop up and set a key according to the rules
